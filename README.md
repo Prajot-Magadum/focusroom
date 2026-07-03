@@ -1,0 +1,3 @@
+# FocusRoom
+
+Collaborative study platform.
