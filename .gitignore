@@ -1,0 +1,26 @@
+# Dependencies
+backend/node_modules/
+frontend/node_modules/
+
+# Environment
+backend/.env
+backend/.src/.env
+frontend/.env
+
+# Next.js
+frontend/.next/
+frontend/tsconfig.tsbuildinfo
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Build
+dist/
+build/
